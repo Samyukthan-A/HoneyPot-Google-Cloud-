@@ -1,6 +1,7 @@
 # HoneyPot-Google-Cloud
 
-![T-Pot Logo](https://raw.githubusercontent.com/telekom-security/tpotce/master/doc/tpot_logo.png)
+
+![cover](https://github.com/user-attachments/assets/c860b6d5-bc2a-4423-af8b-a289a2c8287f)
 
 A 24-hour analysis of cyber threats using T-Pot on Google Cloud, capturing ~65,000 attacks. This project provides insights into attack patterns, sources, and vulnerabilities, offering a foundation for enhancing cybersecurity strategies.
 
